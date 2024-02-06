@@ -1,8 +1,6 @@
-![Cover](./.github/cover.png)
-
 # NLW 14 Expert (React)
 
-Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando React, TypeScript, Tailwind e a SpeechRecognition API.
+Aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando React, TypeScript, Tailwind e a SpeechRecognition API.
 
 ## Executando
 
