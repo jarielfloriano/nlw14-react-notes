@@ -1,9 +1,8 @@
 {
     "name": "nlw14-notes",
-    "description": "Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando React, TypeScript, Tailwind e a SpeechRecognition API.",
-    "author": "Robson H. Rodrigues <robhenrod@gmail.com>",
-    "homepage": "https://nlw14-notes.vercel.app/",
-    "repository": "https://github.com/Robson16/nlw14-notes",
+    "description": "Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat (Trilha: React)",
+    "author": "Jariel Floriano <jariel.floriano@gmail.com>",
+    "repository": "https://github.com/jarielfloriano/nlw14-react-notes",
     "version": "1.0.0",
     "main": "index.js",
     "license": "MIT",
@@ -30,7 +29,8 @@
         "date-fns": "^3.3.1",
         "lucide-react": "^0.323.0",
         "react": "^18.2.0",
-        "react-dom": "^18.2.0"
+        "react-dom": "^18.2.0",
+        "sonner": "^1.4.0"
     },
     "devDependencies": {
         "@types/react": "^18.2.43",
