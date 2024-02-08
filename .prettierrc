@@ -1,3 +1,6 @@
 {
-  "format": "prettier --write \"src/**/*.{ts,tsx,js,jsx}\""
+    "format": "prettier --write \"src/**/*.{ts,tsx,js,jsx}\"",
+    "tabWidth": 4,
+    "semi": false,
+    "singleQuote": true
 }
